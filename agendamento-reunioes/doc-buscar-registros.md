@@ -15,8 +15,8 @@ Neste campo, se clicarmos poderemos ver as datas das reuniões agendada em ordem
 Aqui mostra a ordem decrescente:
 ![6 - ordem descrescente data](https://github.com/void-works-br/projeto-planejare/assets/107960686/a8a4e885-aefc-4aad-b4de-5a2fd29944ab)
 
-Neste botão, abriremos o menu de [Detalhes da reunião](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-detalhes.md):
+Neste botão, abriremos o menu de [Detalhes da reunião](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-detalhes.md):
 ![7 - botão açoes](https://github.com/void-works-br/projeto-planejare/assets/107960686/8a6b002a-5434-45e5-800a-e396a5bd616b)
 
-[Voltar ao índice](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-index.md)
+[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
