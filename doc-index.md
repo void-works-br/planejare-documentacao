@@ -30,12 +30,12 @@ Nosso Sistema de Agendamento de Reuniões é uma solução completa que otimiza 
 ## Funcionalidades - Agenda
 
 
-- [Agendamento de reunião](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-agenda.md)
+- [Agendamento de reunião](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-agenda.md)
 
-- [Calendário de reuniões](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-minha-agenda.md)
+- [Calendário de reuniões](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-minha-agenda.md)
 
-- [Buscar registros](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-buscar-registros.md)
+- [Buscar registros](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-buscar-registros.md)
 
-- [Detalhes da reunião](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-detalhes.md)
+- [Detalhes da reunião](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-detalhes.md)
 
 
