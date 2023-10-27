@@ -26,5 +26,5 @@ Neste botão, você consegue editar uma reunião, da mesma forma que você conse
 Neste campo, você consegue ver o status da reunião que você selecionou:
 ![15 - agendada](https://github.com/void-works-br/projeto-planejare/assets/107960686/14767d86-b8ff-4b04-997c-96f58a6ce8a2)
 
-[Voltar ao índice](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-index.md)
+[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
