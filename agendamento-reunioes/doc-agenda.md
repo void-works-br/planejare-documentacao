@@ -37,7 +37,7 @@ Neste botão, adiciona-se mais um participante:
 Após preencher todos os campos listados acima, basta clicar neste botão para agendar a reunião:
 ![16 - Agendar reunião](https://github.com/void-works-br/projeto-planejare/assets/107960686/33f79d66-5cca-4f0b-8b01-cc4025c25dcc)
 
-[Voltar ao índice](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/doc-index.md)
+[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
 
 
