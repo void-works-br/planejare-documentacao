@@ -9,5 +9,5 @@ Nesta última etapa, você consegue visualizar o progresso do objetivo e da inic
 Nestes botões, você consegue excluir e adicionar iniciativas:
 ![4 botao adiçao e tirar](https://github.com/void-works-br/planejare-documentacao/assets/107960686/a1c19106-f48b-4860-a5c5-50356378d6fc)
 
-Por fim, conseguimos voltar à etapa anterior, visualizar os detalhes e salvar o progresso:
+Por fim, conseguimos voltar à [etapa anterior](https://github.com/void-works-br/planejare-documentacao/blob/main/mapa-estrategico/steps/step%20painel/doc-painel-step2.md), [visualizar os detalhes](https://github.com/void-works-br/planejare-documentacao/blob/main/mapa-estrategico/detalhes-do-mapa.md) e salvar o progresso:
 ![3 - botoes](https://github.com/void-works-br/planejare-documentacao/assets/107960686/90d459ed-1a9d-4803-bbec-bdf6b4af1a08)
