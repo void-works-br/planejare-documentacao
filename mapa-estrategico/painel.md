@@ -10,7 +10,7 @@ Mais abaixo, você você pode visualizar as Iniciativas do objetivo, onde você 
 Nos botões abaixo, você consegue voltar à tela de "Detalhes do mapa" clicando em "Detalhes" e para salvar tudo o que foi preenchido, basta clicar no botão "Salvar progresso": 
 ![4 - botoes](https://github.com/void-works-br/planejare-documentacao/assets/107960686/c41ac6f7-beaf-4d50-a8b9-4ccfffb86364)
 
-Por fim, no botão "Selecionar iniciativa", você será direcionado para o próximo passo:
+Por fim, no botão "Selecionar iniciativa", você será direcionado para o [próximo passo:](https://github.com/void-works-br/planejare-documentacao/blob/main/mapa-estrategico/steps/step%20painel/doc-painel-step2.md)
 
 ![3 - selecionar iniciativa](https://github.com/void-works-br/planejare-documentacao/assets/107960686/c39b7e54-5f6f-4095-88ec-b41684efef7c)
 
