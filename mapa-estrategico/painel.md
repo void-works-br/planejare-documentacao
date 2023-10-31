@@ -1,5 +1,5 @@
-## Painel de implementação
-- 1 - Adicionar iniciativas:
+## Painel de implementação - Passo 1
+- Adicionar iniciativas:
 
 Nesta parte da tela, você pode visualizar em porcentagem o progresso do objetivo, o próprio objetivo e a perspectiva:
 ![1 - tela 1](https://github.com/void-works-br/planejare-documentacao/assets/107960686/76f6ed61-6e2a-4dad-8d46-58d04b44b487)
