@@ -1,8 +1,8 @@
-## Missão, Visão e Valores
-Nestes campos abaixo, você deverá preencher com missão, visão e valores:
-![1 - missao, visao e valores](https://github.com/void-works-br/projeto-planejare/assets/107960686/8c014279-2427-4762-98e2-d32677726344)
+## nd
 
-Por fim, na parte inferior da tela, você conseguirá vizualizar o botão de "Voltar" e o botão de "Continuar". Clicando em "Continuar" você irá 
-para o [próximo passo:](https://github.com/void-works-br/projeto-planejare/blob/dev/doc/mapa-estrategico/steps/doc-step3.md)
 
-![2 - botoes](https://github.com/void-works-br/projeto-planejare/assets/107960686/272b34de-beb1-4a54-9ce7-92364972b938)
+
+![1 - step 2](https://github.com/void-works-br/planejare-documentacao/assets/107960686/29e22dda-0924-430a-b114-b011b4506e11)
+![2 - detalhes](https://github.com/void-works-br/planejare-documentacao/assets/107960686/12a355fb-52d1-454a-968b-6574acf7ced0)
+![3 - selecionar](https://github.com/void-works-br/planejare-documentacao/assets/107960686/ce24aede-98d3-466d-b714-14e88828dd84)
+
