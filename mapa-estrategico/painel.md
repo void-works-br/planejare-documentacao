@@ -11,6 +11,7 @@ Nos botões abaixo, você consegue voltar à tela de "Detalhes do mapa" clicando
 ![4 - botoes](https://github.com/void-works-br/planejare-documentacao/assets/107960686/c41ac6f7-beaf-4d50-a8b9-4ccfffb86364)
 
 Por fim, no botão "Selecionar iniciativa", você será direcionado para o próximo passo:
+
 ![3 - selecionar iniciativa](https://github.com/void-works-br/planejare-documentacao/assets/107960686/c39b7e54-5f6f-4095-88ec-b41684efef7c)
 
 
