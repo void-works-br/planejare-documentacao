@@ -46,6 +46,11 @@ Nosso Sistema de Agendamento de Reuniões é uma solução completa que otimiza 
 - [Consultar implementação](https://github.com/void-works-br/planejare-documentacao/blob/main/mapa-estrategico/doc-consultar-implementacao.md)
 
 
-# Minhas tarefas
+## Minhas tarefas
 
 - [Minhas tarefas](https://github.com/void-works-br/planejare-documentacao/blob/main/minhas-tarefas/doc-minhas-tarefas.md)
+
+
+## Gerenciar usuário
+
+- [Configurações de usuário](https://github.com/void-works-br/planejare-documentacao/blob/main/gerenciamento-de-usuario/doc-usuario.md)
