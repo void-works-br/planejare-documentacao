@@ -34,5 +34,5 @@ Neste botão, abriremos o menu de [Detalhes da reunião:](https://github.com/voi
 ![7 - botão açoes](https://github.com/void-works-br/planejare-documentacao/assets/96205012/b8856c12-7b3a-4da3-89b1-1e410099b373)
 
 
-[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
+## [Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
