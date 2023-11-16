@@ -60,8 +60,8 @@ Após preencher todos os campos listados acima, basta clicar neste botão para a
 
 ![16 - Agendar reunião](https://github.com/void-works-br/planejare-documentacao/assets/96205012/cb09d60f-d819-4095-8a24-c5f1eeaa378f)
 
-[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
+## [Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
 
 
