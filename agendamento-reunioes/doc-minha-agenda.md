@@ -37,5 +37,7 @@ Também é possível visualizar várias reuniões para algum dia, como no exempl
 
 Basicamente, o intuito da "Minha agenda" é gerenciar as reuniões agendadas, facilitando a edição e visualização delas.
 
-[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
+
+
+## [Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
