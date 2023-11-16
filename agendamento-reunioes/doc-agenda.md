@@ -27,11 +27,11 @@ Você também pode selecionar com os botões de relógio:
 
 No campo abaixo, liste os compromissos que serão assumidos durante a reunião:
 
-![9 - compromisso assumido]![image](https://github.com/void-works-br/planejare-documentacao/assets/96205012/e4c7ac0b-8ded-4be8-afbf-f4b2f64bc78f)
+![9 - compromisso assumido](https://github.com/void-works-br/planejare-documentacao/assets/96205012/e4c7ac0b-8ded-4be8-afbf-f4b2f64bc78f)
 
 Neste botão, adiciona-se mais um compromisso:
 
-![10 - compromisso assumido botão](![image](https://github.com/void-works-br/planejare-documentacao/assets/96205012/decbe86d-d966-4bf0-b39a-212f512ac55b)
+![10 - compromisso assumido botão](https://github.com/void-works-br/planejare-documentacao/assets/96205012/decbe86d-d966-4bf0-b39a-212f512ac55b)
 
 
 Logo após, irá aparecer uma confirmação sobre a adição de outro compromisso:
