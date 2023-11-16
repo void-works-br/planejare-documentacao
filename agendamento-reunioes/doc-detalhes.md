@@ -41,5 +41,4 @@ Neste botão a visualização é alternada para a linha do tempo. Onde irá regi
 ![15 - agendada](https://github.com/void-works-br/planejare-documentacao/assets/96205012/be933c4f-e2d9-4403-abc5-f6193cdd5049)
 
 
-[Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
-
+## [Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
