@@ -2,36 +2,44 @@
 
 
 
-Logo abaixo, você consegue ver todos os detalhes da reunião, os participantes e os compromissos assumidos:
+Logo abaixo, você poderá ver todos os detalhes da reunião, os participantes e os compromissos assumidos:
 
-![8 - detalhes da reunião](https://github.com/void-works-br/projeto-planejare/assets/107960686/9ee8fae1-0a90-4868-9ee7-e3e5401cd49d)
+![8 - detalhes da reunião](https://github.com/void-works-br/planejare-documentacao/assets/96205012/bb6d7c72-90aa-4717-99ff-cebf5968dca5)
 
-Neste botão, fica o BPMN:
 
-![9 - bpmn](https://github.com/void-works-br/projeto-planejare/assets/107960686/cc79eb97-9738-4d64-922c-3e4ba78697e5)
+**Botão Diagrama:** a visualização é alternada para o diagrama de fluxo do processo de agendamento:
 
-Neste botão, você consegue fazer upload de arquivos:
+![9 - bpmn](https://github.com/void-works-br/planejare-documentacao/assets/96205012/1658360b-9b01-4249-a3a3-2bfc9f19314c)
 
-![10 - upload](https://github.com/void-works-br/projeto-planejare/assets/107960686/5567cc7a-a2ff-4e51-b388-e27030ecd8b1)
 
-Neste botão, vpcê consegue ver a linha do tempo. Onde irá registrar todas as modificações que foram feitas na reunião agendada:
+**Botaõ Upload:** a visualização é alternada para o painel de download/upload onde é possível fazer upload e download de arquivos:
 
-![11 - timeline](https://github.com/void-works-br/projeto-planejare/assets/107960686/3a039280-df60-4d82-b17c-51944bd5778e)
+![10 - upload](https://github.com/void-works-br/planejare-documentacao/assets/96205012/ef146fa4-78bc-4e02-805e-f8a8213fd303)
 
-Neste botão, você consegue fazer um comentário:
 
-![12 - comentários](https://github.com/void-works-br/projeto-planejare/assets/107960686/5d9d5dc5-852b-4e1d-bbcf-57329c30f2f1)
+Neste botão a visualização é alternada para a linha do tempo. Onde irá registrar todas as modificações que foram feitas durante o processo da reunião:
 
-Neste botão, você consegue cancelar uma reunião agendada:
+![11 - timeline](https://github.com/void-works-br/planejare-documentacao/assets/96205012/af96e3cf-44ab-4554-8f1f-c24be7947df5)
 
-![13 - cancelar](https://github.com/void-works-br/projeto-planejare/assets/107960686/7c9c0b79-2400-4c03-ac7d-fb6d28126995)
 
-Neste botão, você consegue editar uma reunião, da mesma forma que você consegue editar em [Minha agenda:](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-minha-agenda.md)
+**Botão comentários:** este botão abre o dialogo para inserção de comentários internos referentes a reunião:
 
-![14 - editar](https://github.com/void-works-br/projeto-planejare/assets/107960686/545f4d05-b0af-4a32-93a5-37c803eff08e)
+![12 - comentários](https://github.com/void-works-br/planejare-documentacao/assets/96205012/e57189d8-3d23-44a0-980a-2f1706e8c612)
 
-Neste campo, você consegue ver o status da reunião que você selecionou:
-![15 - agendada](https://github.com/void-works-br/projeto-planejare/assets/107960686/14767d86-b8ff-4b04-997c-96f58a6ce8a2)
+
+**Botão cancelar:** neste botão é cancelar uma reunião agend ada:
+
+![13 - cancelar](https://github.com/void-works-br/planejare-documentacao/assets/96205012/ba0c6590-e3d7-4ab7-bb45-e1844e4a4693)
+
+
+**Botão editar:** ao clicar nesse botão, será possível editar uma reunião, da mesma forma que você consegue editar em [Minha agenda:](https://github.com/void-works-br/planejare-documentacao/blob/main/agendamento-reunioes/doc-minha-agenda.md)
+
+![14 - editar](https://github.com/void-works-br/planejare-documentacao/assets/96205012/1472bf8a-52de-493b-b544-328378d04581)
+
+
+**Status:** neste campo, você consegue ver o status da reunião que você selecionou:
+![15 - agendada](https://github.com/void-works-br/planejare-documentacao/assets/96205012/be933c4f-e2d9-4403-abc5-f6193cdd5049)
+
 
 [Voltar ao índice](https://github.com/void-works-br/planejare-documentacao/blob/main/doc-index.md)
 
